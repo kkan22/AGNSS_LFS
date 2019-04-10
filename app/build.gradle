@@ -53,3 +53,8 @@ sceneform.asset('sampledata/reverse_drop.obj',
         'default',
         'sampledata/reverse_drop.sfa',
         'src/main/assets/reverse_drop')
+
+sceneform.asset('sampledata/JeonJuPointOut_0.fbx',
+        'default',
+        'sampledata/JeonJuPointOut_0.sfa',
+        'src/main/assets/JeonJuPointOut_0')
